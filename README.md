@@ -15,7 +15,7 @@ Attribute Information:
 7. CustomerID: Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 8. Country: Country name. Nominal, the name of the country where each customer resides.
 
-Performed the following tasks: 
+# Performed the following tasks: 
 1.	Exploratory Data Analysis (EDA) to visually explore the characteristics of the data and discover transactional patterns of different customers and countries 
 2.	RFM (Recency, Frequency and Monetary value) principles to identify and segment customers using K-Means clustering for target marketing and 
 3.	Cohort Analysis to understand each customers’ lifetime value and the retention rate
